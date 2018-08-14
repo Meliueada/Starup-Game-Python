@@ -37,3 +37,4 @@ python game.py staff
  - 运行pip install -r requirments.txt 安装依赖库
  - 运行python game.py start 开始游戏
  
+# 测试git
